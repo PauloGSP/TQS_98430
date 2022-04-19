@@ -1,4 +1,4 @@
-package main.java.com.lab3.Cars.models;
+package com.lab3.Cars.models;
 
 public class Car {
 
